@@ -31,7 +31,7 @@ git clone https://github.com/jtoty/Libftest
 ```
 
 #### Old libft subject
-To test the old libft subject, you have to go to the branch [old-libft](https://github.com/jtoty/Libftest/tree/old-libft).
+To test the old libft subject, you have to go to the branch
 
 ### Configuration
 
@@ -85,7 +85,4 @@ All the supported functions are listed [on this page](https://github.com/jtoty/L
 
 Any suggestions or bugs reporting ?
 Contact jtoty@student.42.fr
-
-### Contributors
-- jmichaud : https://github.com/MrJe
-- tlernoul
+l
